@@ -11,7 +11,3 @@ CessActivityCell ( An ASP.NET MVC 5 Project ) is a project that i made during my
 * Richa Vasudeva (2017CSA1169)
 * Rohit Attri (2017CSA1174)
 
-## Admin Login Info
-
-* USERNAME: admin@cessgndu.com
-* PASSWORD: Cess1234!@#$
